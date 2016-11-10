@@ -10,7 +10,7 @@
     "url": "https://github.com/mattdesl"
   },
   "dependencies": {
-    "three": "^0.79.0",
+    "three": "^0.82.0",
     "flatten-vertex-data": "^1.0.0"
   },
   "devDependencies": {
